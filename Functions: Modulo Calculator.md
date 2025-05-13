@@ -24,7 +24,6 @@ b = int(input())
 
 ## Result
 Thus,the program is executed suucessfully.
-# Functions in Python: Modulo Calculator
 
 
 
